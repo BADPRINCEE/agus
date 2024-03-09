@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "766138649424",
+    "project_id": "ali-utsmc",
+    "storage_bucket": "ali-utsmc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766138649424:android:264091617f5a88c729ba55",
+        "android_client_info": {
+          "package_name": "com.example.ali_utsmc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALetuaZUqy3lSk3wG35bUbKvyKF3oIRuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766138649424:android:0320d2c766d340ef29ba55",
+        "android_client_info": {
+          "package_name": "com.example.uas_ali"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALetuaZUqy3lSk3wG35bUbKvyKF3oIRuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
